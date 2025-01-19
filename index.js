@@ -32,7 +32,7 @@ function policyHeader(policy) {
     case "reject":
       return "Reject&nbsp;✅";
     default:
-      return "DMARC manglar!&nbsp;❌";
+      return "Saknas&nbsp;❌";
   }
 }
 
